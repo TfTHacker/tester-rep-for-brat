@@ -1,6 +1,7 @@
 {
 	"name": "Testing tool for obsidian42-brat",
 	"id": "testingtool2",
+	"version": "0.1",
 	"minAppVersion": "0.9.12",
 	"description": "testing tool.",
 	"author": "TfTHacker",
