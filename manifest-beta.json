@@ -1,4 +1,10 @@
 {
-  "id": "test-beta",
-  "version": "1.0.4"
+	"name": "Testing tool for obsidian42-brat",
+	"id": "testingtool2",
+	"version": "1.0.4",
+	"minAppVersion": "0.9.12",
+	"description": "testing tool.",
+	"author": "TfTHacker",
+	"authorUrl": "https://github.com/TfTHacker/tester-rep-for-brat",
+	"isDesktopOnly": false
 }
